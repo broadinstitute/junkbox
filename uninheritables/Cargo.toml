@@ -1,0 +1,13 @@
+[package]
+name = "uninheritables"
+description = "Generate some phenotypes with no inheritability"
+version = "0.0.1"
+authors = ["Oliver Ruebenacker <oliverr@broadinstitute.org>"]
+edition = "2021"
+readme = "README.md"
+repository = "https://github.com/broadinstitute/junkbox"
+license = "BSD-3-Clause"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
